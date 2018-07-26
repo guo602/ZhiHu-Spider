@@ -1,4 +1,4 @@
-This project use  **zhihu_oauth**  python package coded by **7sDream**( Another NKUer ). After about 7days' try I thought this is the most convenient one I have ever  found  for **beginners** to grab things ( espacially answers ) on 知乎 . 
+This project uses  **zhihu_oauth**  python package coded by **7sDream**( Another NKUer ). After about 7days' try I thought this is the most convenient one I had ever  found  for **beginners** to grab things ( espacially answers ) on 知乎 . 
 
 ```python
 python -m pip install zhihu_oauth
