@@ -4,6 +4,6 @@ This project uses  **zhihu_oauth**  python package coded by **7sDream**( Another
 python -m pip install zhihu_oauth
 ```
 
-Before run __spider.py__ to get what you want，remeber to custom your email/phone_num and password in __login.py__ and run it.
+Before run __spider.py__ to get what you want，remember to custom your email/phone_num and password in __login.py__ and run it.
 
 Enjoy your work.
